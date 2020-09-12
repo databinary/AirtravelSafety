@@ -6,8 +6,11 @@ This study is based on crash and airline statistics from The Aviation safety net
 
 ## Technologies
 Python 3.8
+
 R 3.6.3
+
 Tableau 2020.1
+
 Powerpoint
 
 ## Table of Contents
