@@ -14,5 +14,12 @@ Tableau 2020.1
 Powerpoint
 
 ## Table of Contents
+Blogpost:
+  Introduction
+  Fatality Rates
+  Airline Safety
+  Passenger Data
+  Conclusion
+  Sources  
 
 ## Setup
